@@ -6,7 +6,7 @@ Summary:           HTTP agent implementation based on httpcomponents HttpCore
 Version:           4.3.5
 Release:           1%{?dist}
 License:           ASL 2.0
-URL:               http://hc.apache.org/
+URL:               https://hc.apache.org/
 Source0:           http://www.apache.org/dist/httpcomponents/httpclient/source/%{name}-%{version}-src.tar.gz
 
 BuildArch:         noarch
